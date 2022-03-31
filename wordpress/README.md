@@ -85,8 +85,6 @@ In plugins look for `all-in-one WP migration` install and activate - this is for
 
 
 
-Goto plugins - and disable all remove and add `Ocean Extra` as well as `Elementor`
-
 
 Create Pages in the pages meny and using Appearance / Menus you can create / customize the menu bars to contain new pages / content as part of navigation
 
