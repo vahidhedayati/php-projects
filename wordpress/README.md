@@ -91,3 +91,7 @@ Goto plugins - and disable all remove and add `Ocean Extra` as well as `Elemento
 Create Pages in the pages meny and using Appearance / Menus you can create / customize the menu bars to contain new pages / content as part of navigation
 
 
+In plugins you can now disable OceanWP related plugins.
+
+You can use https://www.pexels.com/ & https://unsplash.com/ FOR freely-usable images.
+You can use https://logomakr.com/ and export out a low resolution logo 
